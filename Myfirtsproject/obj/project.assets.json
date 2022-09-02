@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MohammedLoulMicpoint\\OneDrive - Micpoint B.V\\Bureaublad\\Mohamed Loul\\Projects\\Myfirtsproject\\Myfirtsproject\\Myfirtsproject.csproj",
+      "projectUniqueName": "C:\\Users\\MohammedLoulMicpoint\\Source\\Repos\\MohamedLoulMP\\Practice-with-c-\\Myfirtsproject\\Myfirtsproject.csproj",
       "projectName": "Myfirtsproject",
-      "projectPath": "C:\\Users\\MohammedLoulMicpoint\\OneDrive - Micpoint B.V\\Bureaublad\\Mohamed Loul\\Projects\\Myfirtsproject\\Myfirtsproject\\Myfirtsproject.csproj",
+      "projectPath": "C:\\Users\\MohammedLoulMicpoint\\Source\\Repos\\MohamedLoulMP\\Practice-with-c-\\Myfirtsproject\\Myfirtsproject.csproj",
       "packagesPath": "C:\\Users\\MohammedLoulMicpoint\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MohammedLoulMicpoint\\OneDrive - Micpoint B.V\\Bureaublad\\Mohamed Loul\\Projects\\Myfirtsproject\\Myfirtsproject\\obj\\",
+      "outputPath": "C:\\Users\\MohammedLoulMicpoint\\Source\\Repos\\MohamedLoulMP\\Practice-with-c-\\Myfirtsproject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MohammedLoulMicpoint\\AppData\\Roaming\\NuGet\\NuGet.Config",

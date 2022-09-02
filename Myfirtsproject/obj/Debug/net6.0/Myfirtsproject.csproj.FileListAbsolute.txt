@@ -13,3 +13,18 @@ C:\Users\MohammedLoulMicpoint\OneDrive - Micpoint B.V\Bureaublad\Mohamed Loul\Pr
 C:\Users\MohammedLoulMicpoint\OneDrive - Micpoint B.V\Bureaublad\Mohamed Loul\Projects\Myfirtsproject\Myfirtsproject\obj\Debug\net6.0\Myfirtsproject.pdb
 C:\Users\MohammedLoulMicpoint\OneDrive - Micpoint B.V\Bureaublad\Mohamed Loul\Projects\Myfirtsproject\Myfirtsproject\obj\Debug\net6.0\Myfirtsproject.genruntimeconfig.cache
 C:\Users\MohammedLoulMicpoint\OneDrive - Micpoint B.V\Bureaublad\Mohamed Loul\Projects\Myfirtsproject\Myfirtsproject\obj\Debug\net6.0\ref\Myfirtsproject.dll
+C:\Users\MohammedLoulMicpoint\Source\Repos\MohamedLoulMP\Practice-with-c-\Myfirtsproject\bin\Debug\net6.0\Myfirtsproject.exe
+C:\Users\MohammedLoulMicpoint\Source\Repos\MohamedLoulMP\Practice-with-c-\Myfirtsproject\bin\Debug\net6.0\Myfirtsproject.deps.json
+C:\Users\MohammedLoulMicpoint\Source\Repos\MohamedLoulMP\Practice-with-c-\Myfirtsproject\bin\Debug\net6.0\Myfirtsproject.runtimeconfig.json
+C:\Users\MohammedLoulMicpoint\Source\Repos\MohamedLoulMP\Practice-with-c-\Myfirtsproject\bin\Debug\net6.0\Myfirtsproject.dll
+C:\Users\MohammedLoulMicpoint\Source\Repos\MohamedLoulMP\Practice-with-c-\Myfirtsproject\bin\Debug\net6.0\Myfirtsproject.pdb
+C:\Users\MohammedLoulMicpoint\Source\Repos\MohamedLoulMP\Practice-with-c-\Myfirtsproject\obj\Debug\net6.0\Myfirtsproject.csproj.AssemblyReference.cache
+C:\Users\MohammedLoulMicpoint\Source\Repos\MohamedLoulMP\Practice-with-c-\Myfirtsproject\obj\Debug\net6.0\Myfirtsproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohammedLoulMicpoint\Source\Repos\MohamedLoulMP\Practice-with-c-\Myfirtsproject\obj\Debug\net6.0\Myfirtsproject.AssemblyInfoInputs.cache
+C:\Users\MohammedLoulMicpoint\Source\Repos\MohamedLoulMP\Practice-with-c-\Myfirtsproject\obj\Debug\net6.0\Myfirtsproject.AssemblyInfo.cs
+C:\Users\MohammedLoulMicpoint\Source\Repos\MohamedLoulMP\Practice-with-c-\Myfirtsproject\obj\Debug\net6.0\Myfirtsproject.csproj.CoreCompileInputs.cache
+C:\Users\MohammedLoulMicpoint\Source\Repos\MohamedLoulMP\Practice-with-c-\Myfirtsproject\obj\Debug\net6.0\Myfirtsproject.dll
+C:\Users\MohammedLoulMicpoint\Source\Repos\MohamedLoulMP\Practice-with-c-\Myfirtsproject\obj\Debug\net6.0\refint\Myfirtsproject.dll
+C:\Users\MohammedLoulMicpoint\Source\Repos\MohamedLoulMP\Practice-with-c-\Myfirtsproject\obj\Debug\net6.0\Myfirtsproject.pdb
+C:\Users\MohammedLoulMicpoint\Source\Repos\MohamedLoulMP\Practice-with-c-\Myfirtsproject\obj\Debug\net6.0\Myfirtsproject.genruntimeconfig.cache
+C:\Users\MohammedLoulMicpoint\Source\Repos\MohamedLoulMP\Practice-with-c-\Myfirtsproject\obj\Debug\net6.0\ref\Myfirtsproject.dll

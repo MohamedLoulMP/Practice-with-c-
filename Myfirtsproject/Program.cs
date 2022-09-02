@@ -11,13 +11,27 @@ namespace Myfirtsproject
     {
         static void Main()
         {
-            //ExampleOne.Start();
-            //InputOutputReadline.Start();
-            //H2VariabelenEnDatatypes.VerbruikWagen();
-            //H2StringsSamenvoegen.VariabelenEnHoofdletters();
-            //H2StringsSamenvoegen.Instructies();
-            //H4Beslissingen.Beslisingen();
+            /*
+            ExampleOne.Start();
+            InputOutputReadline.Start();
+            H2VariabelenEnDatatypes.VerbruikWagen();
+            H2StringsSamenvoegen.VariabelenEnHoofdletters();
+            H2StringsSamenvoegen.Instructies();
+            H4Beslissingen.Beslisingen();
             H4Beslissingen.OefeningIfElse();
+            H5Loops.CountDown();
+            H5Loops.Wachtwoord();
+            H5Loops.Feestje();
+            Arrays.Start(); 
+            Arrays.Array();
+            Arrays.leefTijden();
+            Arrays.IndexOf();
+            Arrays.Prijzen();
+            */
+            Arrays.Test();
+
+
+
         }
     }
 }
