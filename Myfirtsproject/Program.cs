@@ -9,9 +9,10 @@ namespace Myfirtsproject
 {
     internal class Program
     {
-        static void Main()
+       static void Main()
         {
             /*
+            
             ExampleOne.Start();
             InputOutputReadline.Start();
             H2VariabelenEnDatatypes.VerbruikWagen();
@@ -27,11 +28,22 @@ namespace Myfirtsproject
             Arrays.leefTijden();
             Arrays.IndexOf();
             Arrays.Prijzen();
-            */
             Arrays.Test();
+            Methoden.Main();
+            H8Numerieke.EvenOneven();
+            H8Numerieke.RestBijDeling();
+            H8Numerieke.MathO(5, 10);
+            H8Numerieke.RandomGetal();
+
+            */
+
+
 
 
 
         }
+
+
+
     }
 }
