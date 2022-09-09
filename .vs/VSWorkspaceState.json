@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Myfirtsproject",
+    "\\Myfirtsproject\\day1.examples"
   ],
+  "SelectedNode": "\\Myfirtsproject\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

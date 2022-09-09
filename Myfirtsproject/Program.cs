@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Myfirtsproject.day1.examples;
+using Myfirtsproject.semester2;
 
 namespace Myfirtsproject
 {
@@ -35,7 +36,17 @@ namespace Myfirtsproject
             H8Numerieke.MathO(5, 10);
             H8Numerieke.RandomGetal();
 
+         
+            klassen_en_objecten.klassen();
+            klassen_en_objecten.Oefenen();
+            klassen_en_objecten.Date();
+            klassen_en_objecten.LocalizedTime();
+               
+            klassen_en_objecten.ParsingTime();
             */
+            klassen_en_objecten.TimeSpan();
+            klassen_en_objecten.DagVanDeWeek();
+
 
 
 

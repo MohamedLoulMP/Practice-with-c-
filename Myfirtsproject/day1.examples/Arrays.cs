@@ -77,22 +77,24 @@ namespace Myfirtsproject.day1.examples
              {
                  Console.WriteLine(prijzen [productIndex]);
              }
-
          }
         */
 
         public static void Test()
         {
-            string[] teksten = new string[10];
-            teksten[0] = "hallo wereld";
-            for (int i = 0; i < teksten.Length; i++)
+            List<string> integerList = new List<string>();
+            Console.WriteLine("Voeg een naam");
+            var naam = Console.ReadLine();
+            integerList.Add(naam);
+
+
+            foreach (string prime in integerList)
             {
-                if (!(teksten[i] is null))
-                {
-                    Console.WriteLine(teksten[i].ToString());
-                }
+                Console.WriteLine(prime);
             }
         }
+
+        
 
     }
 }

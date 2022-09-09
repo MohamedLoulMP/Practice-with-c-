@@ -33,7 +33,7 @@ namespace Myfirtsproject.day1.examples
              Console.WriteLine(result);
          }
         */
-        public static void RandomGetal()
+      /*  public static void RandomGetal()
         {
             Random mygen = new Random();
 
@@ -43,6 +43,7 @@ namespace Myfirtsproject.day1.examples
             }
 
         }
+      */
 
 
     }

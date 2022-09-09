@@ -6,34 +6,34 @@ using System.Threading.Tasks;
 
 namespace Myfirtsproject.day1.examples
 {
-    internal class H4Beslissingen
+    /*internal class H4Beslissingen
     {
-        //public static void Beslisingen()
-        //{
+        public static void Beslisingen()
+        {
 
-                //string wachtwoord;
-               // Console.WriteLine("Wat is je het wachtwoord sukkel ?");
-               // wachtwoord = Console.ReadLine();
-            //if (wachtwoord == "moisking")
-            //{
-               // Console.WriteLine("Goed gedaan sukkel");
-           // }
-            //else
-            //{
-               // Console.WriteLine("Onjuist wachtwoord sukkel");
-                //Console.WriteLine("Jij krijt nog ee kans");
-           // }
-            //wachtwoord = Console.ReadLine();
-            //if (wachtwoord == "moisking")
-                //{
-                    //Console.WriteLine("Nu ben je niet meer een sukkel");
-               // }
-               // else
-                //{
-                   // Console.WriteLine("GADVERDAMME oprotten");
-               // }
+                string wachtwoord;
+                Console.WriteLine("Wat is je het wachtwoord sukkel ?");
+                wachtwoord = Console.ReadLine();
+            if (wachtwoord == "moisking")
+            {
+                Console.WriteLine("Goed gedaan sukkel");
+            }
+            else
+            {
+                Console.WriteLine("Onjuist wachtwoord sukkel");
+                Console.WriteLine("Jij krijt nog ee kans");
+            }
+            wachtwoord = Console.ReadLine();
+            if (wachtwoord == "moisking")
+                {
+                    Console.WriteLine("Nu ben je niet meer een sukkel");
+                }
+                else
+                {
+                    Console.WriteLine("GADVERDAMME oprotten");
+                }
             
-        //}
+        }
 
         public static void OefeningIfElse()
         {
@@ -52,5 +52,6 @@ namespace Myfirtsproject.day1.examples
             }
 
         }
-    }
+    } 
+    */
 }

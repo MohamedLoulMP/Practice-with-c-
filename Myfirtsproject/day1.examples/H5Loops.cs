@@ -63,7 +63,6 @@ namespace Myfirtsproject.day1.examples
                 guests.Add(guest);
 
 
-
                 Console.Write("Wil je een volgende persoon inschrijven? (ja of nee) ");
                 enterNextGuest = Console.ReadLine() == "ja";
             }
@@ -77,5 +76,6 @@ namespace Myfirtsproject.day1.examples
         }
        */
 
+       
     }
 }
