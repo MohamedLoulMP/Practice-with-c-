@@ -11,7 +11,6 @@ namespace Myfirtsproject.semester2
 {
     internal class klassen_en_objecten
     {
-        enum Weekdagen { Maandag, Dinsdag, Woensdag, Donderdag, Vrijdag, Zaterdag, Zondag }
 
 
         public static void klassen()
@@ -93,12 +92,86 @@ namespace Myfirtsproject.semester2
             */
         }
 
-        public static void DagVanDeWeek()
+        /*public static void DagVanDeWeek()
         {
             string[] dagen = { "Maandag", "Dinsdag", "Woensdag", "Donderdag", "Vrijdag", "Zaterdag", "Zondag" };
-         
+            string[] namen = { "mandag" };
+            int[] weekdays = { 1, 2, 3, 4, 5, 6, 7 };
             Console.WriteLine(dagen[0]);
         }
+        */
+
+      /*  public static void WeekdagProgramma()
+        {
+
+            Console.WriteLine("jaar");
+            var year = int.Parse(Console.ReadLine());
+            Console.WriteLine("maand");
+            var month = int.Parse(Console.ReadLine());
+            Console.WriteLine("dag");
+            var day = int.Parse(Console.ReadLine());
+
+            var dateTime = new DateTime(year, month, day);
+            Console.WriteLine($"{dateTime:dd} {dateTime:MMMM} {dateTime:yyyy} is een vrij dag  ");
+
+        }
+      */
+
+       /* public static void WeekdagProgrammaRemon()
+        {
+            Console.WriteLine("jaar");
+            var year = Console.ReadLine();
+            Console.WriteLine("maand");
+            var month = Console.ReadLine();
+            Console.WriteLine("dag");
+            var day = Console.ReadLine();
+
+
+
+            var dateString = $"{year}-{month}-{day}";
+
+
+
+            if (DateTime.TryParse(dateString, out DateTime date))
+            {
+                Console.WriteLine($"{date:D} {date:dddd}");
+            }
+            else
+            {
+                Console.WriteLine("er is iets mis gegaan");
+            }
+        }
+       */
+
+
+
+        /* public static void Auto()
+
+          {
+              int aantalAutos = 3;
+              int[] kilometers = new int[aantalAutos];
+              double[] benzine = new double[aantalAutos];
+              DateTime[] onderhoud = new DateTime[aantalAutos];
+
+              for (int i = 0; i < aantalAutos; i++)
+              {
+                  Console.WriteLine($"kilometerstand van auto {i + 1}");
+                  kilometers[i] = Convert.ToInt32(Console.ReadLine());
+                  Console.WriteLine($"benzine van auto {i + 1}");
+                  benzine[i] = Convert.ToDouble(Console.ReadLine());
+                  Console.WriteLine($"Jaar recentste onderhoud auto {i + 1}?");
+                  int jaar = Convert.ToInt32(Console.ReadLine());
+                  Console.WriteLine($"Maand recentste onderhoud auto {i + 1}?");
+                  int maand = Convert.ToInt32(Console.ReadLine());
+                  Console.WriteLine($"Dag recentste onderhoud auto {i + 1}?");
+                  int dag = Convert.ToInt32(Console.ReadLine());
+                  onderhoud[i] = new DateTime(jaar, maand, dag);
+
+              }
+
+
+          }
+        */
 
 
 

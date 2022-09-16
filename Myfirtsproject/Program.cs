@@ -42,10 +42,15 @@ namespace Myfirtsproject
             klassen_en_objecten.Date();
             klassen_en_objecten.LocalizedTime();
                
+            klassen_en_objecten.Auto();
+
             klassen_en_objecten.ParsingTime();
-            */
             klassen_en_objecten.TimeSpan();
-            klassen_en_objecten.DagVanDeWeek();
+            klassen_en_objecten.WeekdagProgramma();
+            klassen_en_objecten.WeekdagProgrammaRemon();
+
+            */
+
 
 
 
