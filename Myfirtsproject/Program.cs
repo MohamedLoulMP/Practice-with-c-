@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +11,7 @@ namespace Myfirtsproject
 {
     internal class Program
     {
-       static void Main()
+        static void Main()
         {
             /*
             
@@ -48,18 +49,21 @@ namespace Myfirtsproject
             klassen_en_objecten.TimeSpan();
             klassen_en_objecten.WeekdagProgramma();
             klassen_en_objecten.WeekdagProgrammaRemon();
+            
+            Auto.AddText();
+            Auto.textfileslezenalgemeen();
+                        H13Datastructuren.ForeachLoops();
 
+            OpdrachtVanColein.BubbleSort();
+            H13Datastructuren.Dictionary();
+            H13Datastructuren.key();
+            H13Datastructuren.Queue();
             */
+            H13Datastructuren.UndoDemo();
 
-
-
-
-
+            
 
 
         }
-
-
-
     }
 }
