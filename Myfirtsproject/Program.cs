@@ -58,8 +58,15 @@ namespace Myfirtsproject
             H13Datastructuren.Dictionary();
             H13Datastructuren.key();
             H13Datastructuren.Queue();
+             H13Datastructuren.UndoDemo();
             */
-            H13Datastructuren.UndoDemo();
+           
+
+              //student 
+            Student student = new Student("Mohamed", "Loul");
+            Console.WriteLine(student.GetFullName);
+            Teacher teacher = new Teacher("Remon", "Micpoint");
+            Console.WriteLine(teacher.GetFullName);
 
             
 
